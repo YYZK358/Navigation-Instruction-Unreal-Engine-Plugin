@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"Module.NavigationInstructionPlugin.cpp.obj",
+		"NavigationInstructionComponent.cpp.obj",
+		"NavigationInstructionPlugin.cpp.obj"
+	]
+}
